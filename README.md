@@ -1,3 +1,4 @@
 # Journalist_killed-Tableau
 
-Analysis of journalist killed during duty.
+Analysis of journalist killed during duty using tableau.
+
